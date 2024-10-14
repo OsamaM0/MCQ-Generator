@@ -10,7 +10,7 @@ from transformers import pipeline
 from datetime import datetime
 from PyMultiDictionary import MultiDictionary
 
-pipe = pipeline("text2text-generation", "lmqg/t5-small-squad-qag")
+pipe = pipeline("text2text-generation", "lmqg/t5-small-squad-qag", from_pt=True)
 dictionary = MultiDictionary()
 
 
