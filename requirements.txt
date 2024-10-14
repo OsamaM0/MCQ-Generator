@@ -3,3 +3,4 @@ transformers
 PyMultiDictionary
 Pillow
 flask
+tf-keras
