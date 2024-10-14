@@ -1,6 +1,3 @@
-torch
-torchvision
-torchaudio 
 tf-keras==2.17.0  # Keep tf-keras for compatibility
 transformers==4.44.2
 PyMultiDictionary==1.2.4
