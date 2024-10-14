@@ -1,6 +1,4 @@
 transformers
 PyMultiDictionary
-Pillow
 flask
-tf-keras
 torch==1.13.1
