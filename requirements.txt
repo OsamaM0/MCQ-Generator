@@ -3,7 +3,6 @@ torchvision
 torchaudio 
 tf-keras==2.17.0  # Keep tf-keras for compatibility
 transformers==4.44.2
-tensorflow==2.17.0  # TensorFlow version that works with tf-keras
 PyMultiDictionary==1.2.4
 Pillow==10.4.0
 flask==3.0.3
